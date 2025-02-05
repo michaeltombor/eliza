@@ -97,4 +97,8 @@ ton_nft_metadata/
 ton_nft_metadata/*
 
 ton_nft_images/
-ton_nft_images/*
+ton_nft_images/*.env
+node_modules/
+dist/
+*.log
+.DS_Store

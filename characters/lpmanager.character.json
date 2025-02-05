@@ -1,6 +1,6 @@
 {
     "name": "LP Manager",
-    "modelProvider": "openai",
+    "modelProvider": "venice",
     "plugins": [],
     "clients": [],
     "settings": {
